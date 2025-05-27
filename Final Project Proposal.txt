@@ -1,0 +1,22 @@
+Final Project Proposal
+
+Concept: Inspired by apps like Journal (Apple), Headspace, and Dailyo, this project is centered around mental health tracking. The goal is to create a simple and intuitive tool where users can reflect on emotional well- being daily. I want to focus on the overload of passive consumption and being able to use technology for digital wellbeing. 
+
+Format: Web based in p5.js
+Tools: p5.js, GitHub, HTML/CSS
+
+Presentation: Live demo during class time to show mood entry prices, visuals generated from mood logs.
+
+Documentation:
+Git comment messages
+Documenting on a doc 
+Comments within my code
+
+Steps & Timeline 
+Sketch the structure 
+Building an input interface
+Create visuals
+Adding prompts and UI
+Doing final testing
+
+Goal: 10 days 

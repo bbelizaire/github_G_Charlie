@@ -20,3 +20,23 @@ Adding prompts and UI
 Doing final testing
 
 Goal: 10 days 
+
+Final Project Diary 
+
+Session 1
+
+-Setting up Home Screen
+-Making background a gradient background 
+-adding initial visuals
+
+
+Session 2
+- creating journal entires format
+- thinking about ways to store the data entry using an API
+
+session 3
+- Looking at tutorials on how to store journal entry data and connect it to p5
+- Troubleshooting with AI to figure out how to transfer data in API
+- More visuals for the journaling
+- Thinking of way to make it more interactive 
+

@@ -44,3 +44,7 @@ Session 4
 - Used AI to translate js code into html for the forums
 - Still trying to figure out how to use node in order to store journaling data 
 
+Session 5
+- not able to store entries data
+
+
